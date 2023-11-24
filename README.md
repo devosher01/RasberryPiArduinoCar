@@ -11,10 +11,10 @@ Este proyecto utiliza Python y Arduino para seguir objetos de diferentes colores
 ## Cómo ejecutar el código
 1. Asegúrate de tener instaladas todas las dependencias.
 2. Conecta tu Arduino a tu computadora y ajusta el nombre del puerto en el código.
-3. Ejecuta el script `test_03.py`.
+3. Ejecuta el script `script.py`.
 
 ## Descripción del código
-El script `test_03.py` realiza las siguientes operaciones:
+El script `script.py` realiza las siguientes operaciones:
 1. Captura imágenes de la cámara.
 2. Filtra la imagen para mostrar solo objetos de un color específico (rojo, azul, verde, amarillo).
 3. Identifica la ubicación del objeto de color en la imagen.
